@@ -1,0 +1,1 @@
+draw_text(x,y+15,string("Set Scores \n") + string(global.total_scores));
